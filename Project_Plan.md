@@ -19,21 +19,17 @@
 - Implement backend services (compute, storage, networking).
 - Create monitoring and logging solutions.
 - Develop security features (authentication, encryption, access control).
-- Implement automation scripts for CI/CD pipeline.
 
 ## 4. Testing the system
 
 - Conduct both integration and unit testing.
 - Perform stress and load tests.
-- Confirm penetration testing and security compliance.
-- Troubleshoot and enhance system functionality
 
 ## 5. Deployment & Maintenance
 
 - Deploy software to production environments.
 - Track the performance and health of the system.
 - Implement updates, bug fixes, and improvements.
-- Create plans for potential problems that may arise in production.  
 
 <hr>
 
