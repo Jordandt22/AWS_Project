@@ -33,8 +33,29 @@
 - Deploy software to production environments.
 - Track the performance and health of the system.
 - Implement updates, bug fixes, and improvements.
-- Create plans for potential problems that may arise in production.
+- Create plans for potential problems that may arise in production.  
 
+<hr>
+
+## WBS Diagram
+
+```mermaid
+
+graph TD;
+    A[Requirements Analysis] -->|Gather Requirements| A1(Stakeholder Input);
+    A -->|Define Needs| A2(Performance & Security);
+    
+    B[System Architecture & Design] -->|Define Components| B1(Microservices & APIs);
+    B -->|Design Storage| B2(Database & Cloud);
+    
+    C[Software Development] -->|Backend Implementation| C1(Compute & Storage);
+    C -->|Security Implementation| C2(Authentication & Access Control);
+    
+    D[Testing & Quality Assurance] -->|Perform Testing| D1(Unit & Integration);
+    D -->|Security & Performance| D2(Penetration & Load Testing);
+    
+    E[Deployment & Maintenance] -->|Deploy & Monitor| E1(Production Deployment);
+    E -->|Apply Updates| E2(Patches & Incident Response);
 
 
 
