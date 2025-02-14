@@ -7,7 +7,7 @@
 - Evaluate the needs for security and compliance.
 - Get feedback from Stakeholders
 
-## 2.Determining Software Architecture
+## 2. Determining Software Architecture
 
 - Describe the microservices and system components.
 - Develop storage solutions and database schemas.
